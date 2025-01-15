@@ -28,3 +28,8 @@ Dataset
 > - **tensorflow**
 ---
 
+#### TRAIN
+
+> **Command** -- python TrainingModel.py
+---
+
