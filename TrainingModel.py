@@ -71,4 +71,4 @@ emotion_model_info = emotion_model.fit(
 #    json_file.write(model_json)
 
 # Save trained model weights in .h5 file
-emotion_model.load_model('emotion_model.h5')
+emotion_model.save_weights('emotion_model.weights.h5')
