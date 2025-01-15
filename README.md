@@ -20,3 +20,11 @@ Dataset
 <br> **Output Layer**: 7 neurons with softmax activation for multi-class classification.
 ---
 
+#### MODULES
+
+> - **cv2** 
+> - **keras**
+> - **numpy**
+> - **tensorflow**
+---
+
