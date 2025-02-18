@@ -33,3 +33,5 @@ Dataset
 > **Command** -- python TrainingModel.py
 ---
 
+(If you want model weights, check my kaggle)
+
